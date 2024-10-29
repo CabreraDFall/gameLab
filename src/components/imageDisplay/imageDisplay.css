@@ -1,0 +1,7 @@
+.medium {
+  width: 200px;
+  height: auto;
+}
+.hidden {
+  filter: brightness(0);
+}
